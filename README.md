@@ -1,4 +1,4 @@
-Perch Take-Home Test
+Take-Home Test
 
 First, make sure to install `django` https://docs.djangoproject.com/en/3.1/topics/install/#installing-official-release
 Also install `rest_framework` https://www.django-rest-framework.org/#installation
